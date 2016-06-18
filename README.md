@@ -1,2 +1,2 @@
 # python_game
-learning python game utilities and tools
+messing around and learning python game utilities and tools
